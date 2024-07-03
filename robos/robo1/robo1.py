@@ -25,3 +25,6 @@ planilha1.write('B2', euro)
 planilha.close()
 os.startfile(caminho)
 t.sleep(4)
+
+
+print('teste')
