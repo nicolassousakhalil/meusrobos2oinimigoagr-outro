@@ -42,3 +42,4 @@ for linha in range (2, len(planilha['A'])+1):
 
 
 print('teste')
+print('algm coisa')
