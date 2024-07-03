@@ -39,3 +39,6 @@ for linha in range (2, len(planilha['A'])+1):
     enviar = espera.until(EC.presence_of_element_located((By.XPATH, '//*[@id="patas"]/main/article/section/form/div[2]/button')))
     enviar.click()
     t.sleep(3)
+
+
+print('teste')
